@@ -1,0 +1,20 @@
+C:\Users\Elizaveta\source\repos\practicheskay 3 Poluda E. pr-24.101\practicheskay 3 Poluda E. pr-24.101\obj\Debug\App.g.cs
+C:\Users\Elizaveta\source\repos\practicheskay 3 Poluda E. pr-24.101\practicheskay 3 Poluda E. pr-24.101\obj\Debug\practicheskay_3_Poluda_E.pr_24._101_MarkupCompile.cache
+C:\Users\Elizaveta\source\repos\practicheskay 3 Poluda E. pr-24.101\practicheskay 3 Poluda E. pr-24.101\bin\Debug\practicheskay_3_Poluda_E.pr_24._101.exe.config
+C:\Users\Elizaveta\source\repos\practicheskay 3 Poluda E. pr-24.101\practicheskay 3 Poluda E. pr-24.101\bin\Debug\practicheskay_3_Poluda_E.pr_24._101.exe
+C:\Users\Elizaveta\source\repos\practicheskay 3 Poluda E. pr-24.101\practicheskay 3 Poluda E. pr-24.101\bin\Debug\practicheskay_3_Poluda_E.pr_24._101.pdb
+C:\Users\Elizaveta\source\repos\practicheskay 3 Poluda E. pr-24.101\practicheskay 3 Poluda E. pr-24.101\obj\Debug\MainWindow.g.cs
+C:\Users\Elizaveta\source\repos\practicheskay 3 Poluda E. pr-24.101\practicheskay 3 Poluda E. pr-24.101\obj\Debug\Pages\Autho.g.cs
+C:\Users\Elizaveta\source\repos\practicheskay 3 Poluda E. pr-24.101\practicheskay 3 Poluda E. pr-24.101\obj\Debug\Pages\Client.g.cs
+C:\Users\Elizaveta\source\repos\practicheskay 3 Poluda E. pr-24.101\practicheskay 3 Poluda E. pr-24.101\obj\Debug\practicheskay_3_Poluda_E.pr_24._101_MarkupCompile.lref
+C:\Users\Elizaveta\source\repos\practicheskay 3 Poluda E. pr-24.101\practicheskay 3 Poluda E. pr-24.101\obj\Debug\App.baml
+C:\Users\Elizaveta\source\repos\practicheskay 3 Poluda E. pr-24.101\practicheskay 3 Poluda E. pr-24.101\obj\Debug\MainWindow.baml
+C:\Users\Elizaveta\source\repos\practicheskay 3 Poluda E. pr-24.101\practicheskay 3 Poluda E. pr-24.101\obj\Debug\Pages\Autho.baml
+C:\Users\Elizaveta\source\repos\practicheskay 3 Poluda E. pr-24.101\practicheskay 3 Poluda E. pr-24.101\obj\Debug\Pages\Client.baml
+C:\Users\Elizaveta\source\repos\practicheskay 3 Poluda E. pr-24.101\practicheskay 3 Poluda E. pr-24.101\obj\Debug\practicheskay_3_Poluda_E.pr_24._101.g.resources
+C:\Users\Elizaveta\source\repos\practicheskay 3 Poluda E. pr-24.101\practicheskay 3 Poluda E. pr-24.101\obj\Debug\practicheskay_3_Poluda_E.pr_24._101.Properties.Resources.resources
+C:\Users\Elizaveta\source\repos\practicheskay 3 Poluda E. pr-24.101\practicheskay 3 Poluda E. pr-24.101\obj\Debug\practicheskay 3 Poluda E. pr-24.101.csproj.GenerateResource.cache
+C:\Users\Elizaveta\source\repos\practicheskay 3 Poluda E. pr-24.101\practicheskay 3 Poluda E. pr-24.101\obj\Debug\practicheskay_3_Poluda_E.pr_24._101.exe
+C:\Users\Elizaveta\source\repos\practicheskay 3 Poluda E. pr-24.101\practicheskay 3 Poluda E. pr-24.101\obj\Debug\practicheskay_3_Poluda_E.pr_24._101.pdb
+C:\Users\Elizaveta\source\repos\practicheskay 3 Poluda E. pr-24.101\practicheskay 3 Poluda E. pr-24.101\obj\Debug\practicheskay 3 Poluda E. pr-24.101.csproj.AssemblyReference.cache
+C:\Users\Elizaveta\source\repos\practicheskay 3 Poluda E. pr-24.101\practicheskay 3 Poluda E. pr-24.101\obj\Debug\practicheskay 3 Poluda E. pr-24.101.csproj.CoreCompileInputs.cache
